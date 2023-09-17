@@ -10,4 +10,13 @@ public class Testcontroller {
 	public String Test() {
 		return "welcome to spring boot application";
 	}
+	 
+	public String  ssss() {
+		return "hfjh";
+	}
+	
+	public String Test1() {
+		return "hi";
+	}
+	
 }

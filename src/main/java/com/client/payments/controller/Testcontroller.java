@@ -8,6 +8,14 @@ public class Testcontroller {
 
 	@GetMapping("/controller")
 	public String Test() {
+
 		return "Hi this is spring boot apppsjhssabasbsjasbashgahsawghasba";
+        
+		
+
+	}
+	
+	public String Test1() {
+		return "hi";
 	}
 }

@@ -8,6 +8,6 @@ public class Testcontroller {
 
 	@GetMapping("/controller")
 	public String Test() {
-		return "welcome to spring boot";
+		return "welcome to spring boot application";
 	}
 }

@@ -18,4 +18,13 @@ public class Testcontroller {
 	public String Test1() {
 		return "hi";
 	}
+	 
+	public String  ssss() {
+		return "hfjh";
+	}
+	
+	public String Test1() {
+		return "hi";
+	}
+	
 }
